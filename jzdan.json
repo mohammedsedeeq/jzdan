@@ -1,4 +1,9 @@
-{
-  "Wallet":"Fast Pay",
+[
+  {
+  "id":1,
+  {
+  "nameWallet":"Fast Pay",
   "Amount":"250000",
 }
+  }
+]
