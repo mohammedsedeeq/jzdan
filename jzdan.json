@@ -1,9 +1,12 @@
 [
   {
   "id":"1",
-    "wallet":{
-  "nameWallet":"Fast Pay",
-  "Amount":"250000"
-}
+    "wallet":
+    {
+      "nameWallet":"Fast Pay",
+      "Amount":"250000",
+      "debtAmount":"12000",
+      "loanAmount":"2000"
+    }
   }
 ]
