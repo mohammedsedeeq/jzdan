@@ -1,14 +1,15 @@
 [
 	{
-		"id": "1",
 		"wallet": [
 			{
+				"id": "1",
 				"nameWallet": "فاست پەی",
 				"Amount": "250000",
 				"debtAmount": "12000",
 				"loanAmount": "2000"
 			},
 			{
+				"id": "2",
 				"nameWallet": "ئێف ئای بی",
 				"Amount": "3000",
 				"debtAmount": "0",
