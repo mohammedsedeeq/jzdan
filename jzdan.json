@@ -1,12 +1,19 @@
 [
-  {
-  "id":"1",
-    "wallet":
-    {
-      "nameWallet":"Fast Pay",
-      "Amount":"250000",
-      "debtAmount":"12000",
-      "loanAmount":"2000"
-    }
-  }
+	{
+		"id": "1",
+		"wallet": [
+			{
+				"nameWallet": "فاست پەی",
+				"Amount": "250000",
+				"debtAmount": "12000",
+				"loanAmount": "2000"
+			},
+			{
+				"nameWallet": "ئێف ئای بی",
+				"Amount": "3000",
+				"debtAmount": "0",
+				"loanAmount": "0"
+			}
+		]
+	}
 ]
